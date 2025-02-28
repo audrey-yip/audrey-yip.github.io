@@ -1,14 +1,13 @@
 title: Audrey Ming Wai Yip # your name (or website title) here
 logo: "/images/IMG_7053.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>
   Final-year undergraduate student at Wellesley College studying Data Science with a concentration in Linguistics researching the intersection of language, technology, and society.
   <br><br>
   <p><strong>Email:</strong> <a href="mailto:ay107@wellesley.edu">ay107@wellesley.edu</a></p>
-<p><strong>Phone:</strong> (408) 797-6860</p>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/audreymwyip/" target="_blank">linkedin.com/in/audreymwyip</a></p>
+  <p><strong>Phone:</strong> (408) 797-6860</p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/audreymwyip/" target="_blank">linkedin.com/in/audreymwyip</a></p>
 
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
